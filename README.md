@@ -14,4 +14,4 @@ I use daily: ``.html`` ``.css`` ``.ts`` ``.lua``
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1313492837857230888) 
 
 
-Nico is skid
+Sxmet, Nico und Emre doggy
